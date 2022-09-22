@@ -8,8 +8,4 @@ des solutions concrètes aux Français. Votre mission consistera donc à faire u
 
 TECHNO
 
-Python
-Jupyter Notebook
-Pandas
-Numpy
-Matplotlib
+Python / Jupyter Notebook / Pandas / Numpy / Matplotlib
